@@ -1,0 +1,57 @@
+[
+  {
+    "id": 0,
+    "productName": "Oshizushi",
+    "image": "https://images.pexels.com/photos/5878433/pexels-photo-5878433.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+    "from": "Osaka",
+    "ingredients": "Cucumber, fresh carrot, scallion, avocado, asparagus, cream cheese",
+    "quantity": "4",
+    "price": "6.50",
+    "vegan": true,
+    "description": "Oshizushi (pressed sushi), also known as hakozushi (boxed sushi), is a strikingly shaped style of sushi originating in Osaka. This variety is made by pressing ingredients into an “oshiwaku” rectangular box, then layering it with toppings and cutting the sushi into neat angular shapes like rectangles, triangle or small squares. The toppings include fish like mackerel or gizzard shad, and may also be decoratively layered with edible leaves like bamboo. Toppings may be placed in different arrangements, such as diagonally or with a whole fish from end to end, and this unique display makes oshizushi a popular choice for bento boxes and gifts."
+  },
+  {
+    "id": 1,
+    "productName": "Nigiri",
+    "image": "https://images.pexels.com/photos/6984182/pexels-photo-6984182.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+    "from": "Akita",
+    "ingredients": "Tuna, mayo, chili sauce",
+    "quantity": "10",
+    "price": "11.00",
+    "vegan": false,
+    "description": "Nigiri is the original form of sushi that we know today. Also called edo-mae (meaning “in front of Edo”), the name refers to its birthplace of Tokyo (formerly Edo). It’s made up of a hand-pressed rice cylinder (shari) topped with any number of ingredients (neta). It’s believed to have been invented as a type of “fast food” by an enterprising sushi chef working in the Edo area during the 1800s who decided to sell his freshly created sushi to nearby workers for a quick snack. The topping can be seafood, vegetables, meat, omelet, or tofu, and in addition to fresh seafood, the fish may be pickled in soy sauce or vinegar, or broiled with a blowtorch. A simple coating of marinade and garnishes such as spring onions, shaved onion, or chives may also be added."
+  },
+  {
+    "id": 2,
+    "productName": "Temaki",
+    "image": "https://images.unsplash.com/photo-1501595091296-3aa970afb3ff?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1500&q=80",
+    "from": "Gifu",
+    "ingredients": "Cucumber, vegan fish cake/imitation crab, carrot, avocado",
+    "quantity": "4",
+    "price": "5.50",
+    "vegan": true,
+    "description": "Temaki is a novel type of sushi with a shape resembling that of an ice cream cone. To make it, rice and ingredients are held within a sheet of nori wrapped into a conical shape. It’s popular at restaurants, as well as for making at home, given its simplicity. Temaki lends itself to a variety of fillings, with some popular types including umeshiso—a paste made of fresh shiso leaf and umeboshi (pickled plum), negitoro, squid with and without natto, and sweetened omelet."
+  },
+  {
+    "id": 3,
+    "productName": "Makizushi",
+    "image": "https://images.unsplash.com/photo-1559410545-0bdcd187e0a6?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80",
+    "from": "Nigita",
+    "ingredients": "Avocado, shrimp tempura, cucumber, tobiko (flying fish roe — fish eggs)",
+    "quantity": "20",
+    "price": "15.00",
+    "vegan": true,
+    "description": "Makizushi, also known as “norimaki,” refers to a type of sushi where rice and ingredients are carefully rolled in a sheet of nori seaweed, which is then cut into smaller pieces. It’s believed that makizushi came into existence in the early 1700s, soon after sheet nori was invented with a similar technique used for paper making. The name norimaki is made up of two Japanese words: “Maki” meaning to roll and “nori” referring to the toasted sheet of nori seaweed used to wrap the ingredients."
+  },
+  {
+    "id": 4,
+    "productName": "Kawaramachi Ganko Sushi",
+    "image": "https://images.unsplash.com/photo-1514190051997-0f6f39ca5cde?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1500&q=80",
+    "from": "Ginza",
+    "ingredients": "Eel, cucumber, avocado",
+    "quantity": "2",
+    "price": "12.00",
+    "vegan": false,
+    "description": "Gunkan maki is another type of maki—“rolled” or “wrapped” sushi—and was invented in a Ginza sushi restaurant in the 1940s. It’s made by wrapping a wide strip of nori around a rice ball while leaving enough space at the top to be filled with various ingredients. The name, translated as “battleship” or “warship” sushi, comes from its shape, resembling a tiny ship. Popular toppings for gunkan maki include uni sea urchin, squid, salmon roe, negitoro (a blend of fatty tuna belly and green onion), potato salad, and kanimiso (blended crab brains). Gunkan maki is commonly found both in takeout sushi bento boxes and at sushi restaurants"
+  }
+]

@@ -1,0 +1,42 @@
+<head>
+  <style>
+    .card__img2 {
+      z-index: 10;
+      margin: 0 50px;
+      padding: 0.5rem;
+      transform: skewX(20deg);
+      height: 150px;
+      width: 200px;
+      border-radius: 15px;
+    }
+    .card__detail2 {
+      padding: 0 3rem;
+    }
+  </style>
+</head>
+
+<figure class="card">
+  <img src="{%IMAGE%}" alt="sushi image" class="card__img2" />
+
+  <div class="card__title-box">
+    <h2 class="card__title">{%PRODUCTNAME%}</h2>
+  </div>
+
+  <div class="card__details">
+    <div class="card__detail-box {%NOT_VEGAN%}">
+      <h6 class="card__detail card__detail--vegan">Vegan!</h6>
+    </div>
+
+    <div class="card__detail-box card__detail2">
+      <h6 class="card__detail">{%QUANTITY%}</h6>
+    </div>
+
+    <div class="card__detail-box">
+      <h6 class="card__detail card__detail--price">{%PRICE%}£</h6>
+    </div>
+  </div>
+
+  <a class="card__link" href="/product?id={%ID%}">
+    <span>Detail <i class="emoji-right">👉</i></span>
+  </a>
+</figure>
