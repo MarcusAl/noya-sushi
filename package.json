@@ -9,7 +9,8 @@
   "author": "Mark Allen",
   "license": "ISC",
   "dependencies": {
-    "slugify": "~1.6.0"
+    "slugify": "~1.6.0",
+    "nodemon": "^2.0.12"
   },
   "devDependencies": {
     "nodemon": "^2.0.12"
