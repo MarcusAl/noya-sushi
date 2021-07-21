@@ -50,7 +50,6 @@ const data = fs.readFileSync(`${__dirname}/dev-data/data.json`, 'utf-8');
 const dataObj = JSON.parse(data);
 
 const slugs = dataObj.map((el) => slugify(el.productName, { lower: true }));
-console.log(slugs);
 
 const server = http.createServer((req, res) => {
   const baseURL = `http://${req.headers.host}`;
@@ -63,9 +62,6 @@ const server = http.createServer((req, res) => {
 
   // get query from URL
   const query = requestURL.searchParams.get('id');
-
-  console.log(pathName);
-  console.log(query);
 
   // Overview page
   if (pathName === '/' || pathName === '/overview') {
@@ -100,6 +96,6 @@ const server = http.createServer((req, res) => {
   }
 });
 
-server.listen(5000, '86.152.5.78', () => {
+server.listen(5000, '127.0.0.1', () => {
   console.log('Listening to requests on port 5000');
 });
