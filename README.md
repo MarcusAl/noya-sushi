@@ -14,7 +14,7 @@
 Page may take some time to load...
 
 ### Screenshot
-<img align="center" alt="Screenshot" height="400px" src="Screenshot 2021-07-04 at 15.53.05.png"/>
+<img align="center" alt="Screenshot" height="600px" src="Screenshot 2021-07-23 at 10.36.50.png"/>
 
 ## Built With
 
