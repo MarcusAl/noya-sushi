@@ -11,7 +11,10 @@
 
 ### View in browser
 [Live](https://noya-sushi.herokuapp.com/)
-Page may take some time to load...
+<div>
+  Page may take some time to load...
+</div>
+
 
 ### Screenshot
 <img align="center" alt="Screenshot" height="600px" src="Screenshot 2021-07-23 at 10.36.50.png"/>
